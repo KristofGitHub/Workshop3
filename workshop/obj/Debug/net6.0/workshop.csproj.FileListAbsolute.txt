@@ -1,0 +1,15 @@
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\bin\Debug\net6.0\workshop.exe
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\bin\Debug\net6.0\workshop.deps.json
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\bin\Debug\net6.0\workshop.runtimeconfig.json
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\bin\Debug\net6.0\workshop.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\bin\Debug\net6.0\workshop.pdb
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\obj\Debug\net6.0\workshop.csproj.AssemblyReference.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\obj\Debug\net6.0\workshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\obj\Debug\net6.0\workshop.AssemblyInfoInputs.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\obj\Debug\net6.0\workshop.AssemblyInfo.cs
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\obj\Debug\net6.0\workshop.csproj.CoreCompileInputs.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\obj\Debug\net6.0\workshop.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\obj\Debug\net6.0\refint\workshop.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\obj\Debug\net6.0\workshop.pdb
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\obj\Debug\net6.0\workshop.genruntimeconfig.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\05 - Семинар 3\workshop\obj\Debug\net6.0\ref\workshop.dll
